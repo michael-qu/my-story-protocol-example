@@ -1,5 +1,5 @@
 node_modules/
 package-lock.json
 *.zip
-# Dotenv file
 .env
+.DS_Store
