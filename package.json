@@ -12,10 +12,11 @@
   "dependencies": {
     "@story-protocol/core-sdk": "^0.0.1-beta-rc.11",
     "ts-node": "^10.9.2",
-    "viem": "~2.8.12"
+    "viem": "^2.8.12"
   },
   "devDependencies": {
     "@types/node": "^20.11.30",
+    "dotenv": "^16.4.5",
     "prettier": "^3.2.5"
   }
 }
